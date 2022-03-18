@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ASSESMENT.gihub.io/static/css/main.8a2accee.css",
+    "main.css": "/ASSESMENT.gihub.io/static/css/main.c4745ead.css",
     "main.js": "/ASSESMENT.gihub.io/static/js/main.9256c545.js",
     "static/js/787.9929dbde.chunk.js": "/ASSESMENT.gihub.io/static/js/787.9929dbde.chunk.js",
     "index.html": "/ASSESMENT.gihub.io/index.html",
-    "main.8a2accee.css.map": "/ASSESMENT.gihub.io/static/css/main.8a2accee.css.map",
+    "main.c4745ead.css.map": "/ASSESMENT.gihub.io/static/css/main.c4745ead.css.map",
     "main.9256c545.js.map": "/ASSESMENT.gihub.io/static/js/main.9256c545.js.map",
     "787.9929dbde.chunk.js.map": "/ASSESMENT.gihub.io/static/js/787.9929dbde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a2accee.css",
+    "static/css/main.c4745ead.css",
     "static/js/main.9256c545.js"
   ]
 }
