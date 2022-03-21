@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/ASSESMENT.gihub.io/static/css/main.c4745ead.css",
-    "main.js": "/ASSESMENT.gihub.io/static/js/main.9256c545.js",
+    "main.css": "/ASSESMENT.gihub.io/static/css/main.c07629e1.css",
+    "main.js": "/ASSESMENT.gihub.io/static/js/main.1a886457.js",
     "static/js/787.9929dbde.chunk.js": "/ASSESMENT.gihub.io/static/js/787.9929dbde.chunk.js",
+    "static/media/newUpperLower.svg": "/ASSESMENT.gihub.io/static/media/newUpperLower.0e5529f72829e492f1e8.svg",
+    "static/media/lower3.svg": "/ASSESMENT.gihub.io/static/media/lower3.4ebf3b5e3d2135126049fef24669c9e3.svg",
     "index.html": "/ASSESMENT.gihub.io/index.html",
-    "main.c4745ead.css.map": "/ASSESMENT.gihub.io/static/css/main.c4745ead.css.map",
-    "main.9256c545.js.map": "/ASSESMENT.gihub.io/static/js/main.9256c545.js.map",
+    "static/media/menu.svg": "/ASSESMENT.gihub.io/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "main.c07629e1.css.map": "/ASSESMENT.gihub.io/static/css/main.c07629e1.css.map",
+    "main.1a886457.js.map": "/ASSESMENT.gihub.io/static/js/main.1a886457.js.map",
     "787.9929dbde.chunk.js.map": "/ASSESMENT.gihub.io/static/js/787.9929dbde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4745ead.css",
-    "static/js/main.9256c545.js"
+    "static/css/main.c07629e1.css",
+    "static/js/main.1a886457.js"
   ]
 }
